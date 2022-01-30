@@ -2,6 +2,6 @@
 
 # Hookah in code?
 
-Just learning a new pattern
+Just learning a builder pattern
 
 Main file builder.py
